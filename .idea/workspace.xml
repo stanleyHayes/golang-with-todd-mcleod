@@ -28,7 +28,7 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build exercise-1.go (1)">
+  <component name="RunManager" selected="Go Build.go build exercise-6.go">
     <configuration name="go build exercise-1.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
@@ -37,45 +37,45 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise-1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise-3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/jedi-level-1/exercise-1.go" />
+      <filePath value="$PROJECT_DIR$/jedi-level-2/exercise-3.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise-2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise-4.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/jedi-level-1/exercise-2.go" />
+      <filePath value="$PROJECT_DIR$/jedi-level-2/exercise-4.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise-4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise-5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/jedi-level-1/exercise-4.go" />
+      <filePath value="$PROJECT_DIR$/jedi-level-2/exercise-5.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise-6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/HelloWorld/main.go" />
+      <filePath value="$PROJECT_DIR$/jedi-level-2/exercise-6.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build exercise-6.go" />
+        <item itemvalue="Go Build.go build exercise-5.go" />
+        <item itemvalue="Go Build.go build exercise-4.go (1)" />
+        <item itemvalue="Go Build.go build exercise-3.go" />
         <item itemvalue="Go Build.go build exercise-1.go (1)" />
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build exercise-4.go" />
-        <item itemvalue="Go Build.go build exercise-2.go" />
-        <item itemvalue="Go Build.go build exercise-1.go" />
       </list>
     </recent_temporary>
   </component>
@@ -84,21 +84,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="637" height="176" key="GridCell.Tab.0.bottom" timestamp="1598081533549">
+    <state width="637" height="176" key="GridCell.Tab.0.bottom" timestamp="1598084206925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598081533549" />
-    <state width="637" height="176" key="GridCell.Tab.0.center" timestamp="1598081533549">
+    <state width="637" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598084206925" />
+    <state width="637" height="176" key="GridCell.Tab.0.center" timestamp="1598084206925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598081533549" />
-    <state width="637" height="176" key="GridCell.Tab.0.left" timestamp="1598081533549">
+    <state width="637" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598084206925" />
+    <state width="637" height="176" key="GridCell.Tab.0.left" timestamp="1598084206925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598081533549" />
-    <state width="637" height="176" key="GridCell.Tab.0.right" timestamp="1598081533549">
+    <state width="637" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598084206925" />
+    <state width="637" height="176" key="GridCell.Tab.0.right" timestamp="1598084206925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598081533549" />
+    <state width="637" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598084206925" />
   </component>
 </project>
