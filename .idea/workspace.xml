@@ -29,28 +29,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Go Build.go build exercise-9.go">
-    <configuration name="go build exercise-5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build exercise-3.go">
+    <configuration name="go build exercise-1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja-level-4/exercise-5.go" />
+      <filePath value="$PROJECT_DIR$/ninja-level-5/exercise-1.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise-7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise-2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja-level-4/exercise-7.go" />
+      <filePath value="$PROJECT_DIR$/ninja-level-5/exercise-2.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise-8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise-3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja-level-4/exercise-8.go" />
+      <filePath value="$PROJECT_DIR$/ninja-level-5/exercise-3.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -62,21 +62,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise=5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build playground.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja-level-4/exercise=5.go" />
+      <filePath value="$PROJECT_DIR$/playground/playground.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build exercise-3.go" />
+        <item itemvalue="Go Build.go build exercise-2.go" />
+        <item itemvalue="Go Build.go build exercise-1.go" />
+        <item itemvalue="Go Build.go build playground.go" />
         <item itemvalue="Go Build.go build exercise-9.go" />
-        <item itemvalue="Go Build.go build exercise-8.go" />
-        <item itemvalue="Go Build.go build exercise-7.go" />
-        <item itemvalue="Go Build.go build exercise-5.go" />
-        <item itemvalue="Go Build.go build exercise=5.go" />
       </list>
     </recent_temporary>
   </component>
@@ -85,22 +85,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="637" height="249" key="GridCell.Tab.0.bottom" timestamp="1598173171543">
+    <state width="637" height="146" key="GridCell.Tab.0.bottom" timestamp="1598180336747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="249" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598173171543" />
-    <state width="637" height="249" key="GridCell.Tab.0.center" timestamp="1598173171543">
+    <state width="637" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598180336747" />
+    <state width="637" height="146" key="GridCell.Tab.0.center" timestamp="1598180336746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="249" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598173171543" />
-    <state width="637" height="249" key="GridCell.Tab.0.left" timestamp="1598173171543">
+    <state width="637" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598180336746" />
+    <state width="637" height="146" key="GridCell.Tab.0.left" timestamp="1598180336746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="249" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598173171543" />
-    <state width="637" height="249" key="GridCell.Tab.0.right" timestamp="1598173171543">
+    <state width="637" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598180336746" />
+    <state width="637" height="146" key="GridCell.Tab.0.right" timestamp="1598180336747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="249" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598173171543" />
+    <state width="637" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598180336747" />
     <state width="637" height="222" key="GridCell.Tab.1.bottom" timestamp="1598094907543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
