@@ -12,7 +12,7 @@ func changeMe(p *person) *person{
 	(*p).age = 45
 	return p
 }
-func main() {
+func main() { 
 	afiba := person{
 		name: "Emmanuella",
 		age: 23,

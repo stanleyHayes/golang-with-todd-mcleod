@@ -1,0 +1,16 @@
+package main
+
+import (
+	"fmt"
+	"sort"
+)
+
+func main() {
+	xi := []int{5, 8, 2, 43, 17, 987, 14, 12, 21, 1, 4, 2}
+	sort.Ints(xi)
+	fmt.Println(xi)
+
+	xs := []string{"random", "rainbow", "delights", "in", "torpedo", "summers", "under", "gallantry"}
+	sort.Strings(xs)
+	fmt.Println(xs)
+}
