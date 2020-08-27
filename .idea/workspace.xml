@@ -59,20 +59,12 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Go Build.go build exercise-4.go">
+  <component name="RunManager" selected="Go Build.go build exercise-5.go">
     <configuration name="go build exercise-1.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/ninja-level-8/exercise-1.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build exercise-2.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GoLang" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja-level-7/exercise-2.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -100,13 +92,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build exercise-5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoLang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ninja-level-8/exercise-5.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build exercise-5.go" />
         <item itemvalue="Go Build.go build exercise-4.go" />
         <item itemvalue="Go Build.go build exercise-3.go (1)" />
         <item itemvalue="Go Build.go build exercise-2.go (2)" />
         <item itemvalue="Go Build.go build exercise-1.go (2)" />
-        <item itemvalue="Go Build.go build exercise-2.go (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -130,22 +130,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="648" y="150" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1598427334594" />
-    <state width="631" height="203" key="GridCell.Tab.0.bottom" timestamp="1598429403597">
+    <state width="631" height="203" key="GridCell.Tab.0.bottom" timestamp="1598430502218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="631" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598429403597" />
-    <state width="631" height="203" key="GridCell.Tab.0.center" timestamp="1598429403597">
+    <state width="631" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598430502218" />
+    <state width="631" height="203" key="GridCell.Tab.0.center" timestamp="1598430502217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="631" height="203" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598429403597" />
-    <state width="631" height="203" key="GridCell.Tab.0.left" timestamp="1598429403597">
+    <state width="631" height="203" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598430502217" />
+    <state width="631" height="203" key="GridCell.Tab.0.left" timestamp="1598430502216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="631" height="203" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598429403597" />
-    <state width="631" height="203" key="GridCell.Tab.0.right" timestamp="1598429403597">
+    <state width="631" height="203" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598430502216" />
+    <state width="631" height="203" key="GridCell.Tab.0.right" timestamp="1598430502218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="631" height="203" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598429403597" />
+    <state width="631" height="203" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598430502218" />
     <state width="637" height="222" key="GridCell.Tab.1.bottom" timestamp="1598094907543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
